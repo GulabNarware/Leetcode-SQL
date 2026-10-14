@@ -6,5 +6,6 @@ A collection of LeetCode SQL solutions to practice database concepts, improve qu
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
