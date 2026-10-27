@@ -28,4 +28,5 @@ A collection of LeetCode SQL solutions to practice database concepts, improve qu
 | [1683-invalid-tweets](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1934-confirmation-rate/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/GulabNarware/Leetcode-SQL/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
