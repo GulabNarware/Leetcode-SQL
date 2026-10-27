@@ -7,6 +7,7 @@ A collection of LeetCode SQL solutions to practice database concepts, improve qu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0197-rising-temperature/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0584-find-customer-referee/) | Easy |
