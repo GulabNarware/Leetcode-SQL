@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-select employee_id ,department_id
+select distinct employee_id ,department_id
 from Employee 
 where employee_id IN (
     select employee_id 
