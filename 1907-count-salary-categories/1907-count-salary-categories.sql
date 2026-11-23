@@ -36,18 +36,37 @@
 
 
 
-select "Low Salary" as category,count(income) as  accounts_count
-from accounts        
-where income < 20000
+-- select "Low Salary" as category,count(income) as  accounts_count
+-- from accounts        
+-- where income < 20000
 
-Union
+-- Union
     
-select "Average Salary" as category,count(income) as  accounts_count
-from accounts        
-where income >=20000 and income <=50000
+-- select "Average Salary" as category,count(income) as  accounts_count
+-- from accounts        
+-- where income >=20000 and income <=50000
 
-UNION
+-- UNION
 
-select "High Salary" as category,count(income) as  accounts_count
-from accounts        
-where income >50000
+-- select "High Salary" as category,count(income) as  accounts_count
+-- from accounts        
+-- where income >50000
+
+
+select "Low Salary" as category ,count(income) as accounts_count
+from accounts 
+where income<20000
+
+UNION 
+
+select "Average Salary" as category ,count(income) as accounts_count
+from accounts 
+where income>=20000 and income<=50000
+
+union 
+
+select "High Salary" as category ,count(income) as accounts_count
+from accounts 
+where income>50000
+
+
