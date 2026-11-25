@@ -17,6 +17,7 @@ A collection of LeetCode SQL solutions to practice database concepts, improve qu
 | [0610-triangle-judgement](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/GulabNarware/Leetcode-SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/GulabNarware/Leetcode-SQL/tree/main/1070-product-sales-analysis-iii/) | Medium |
